@@ -829,5 +829,12 @@ footer {
 
   .innerimg2 img {
     height: 100px;
-  }  
+  } 
+
+
+   /* footer   */
+
+  .footer_logo img{
+    height: 50px;
+}
 }
